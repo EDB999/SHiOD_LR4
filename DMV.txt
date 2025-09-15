@@ -4,3 +4,4 @@
 4)Backend-developer
 5)Git, HTML, CSS, Django, REST API, SQL
 6)(cyber)Sport, games, ABSOLUTE CINEMA
+7)Average point: 4.69
